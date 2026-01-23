@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+%26+Database+Expert+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Open+Source+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" />
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 </div>
 
@@ -33,7 +31,6 @@ Full-stack developer specializing in backend development and database architectu
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bR6tvsnB)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henzy98)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
 
 </div>
 
@@ -88,7 +85,7 @@ Full-stack developer specializing in backend development and database architectu
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Henzy98&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=Henzy98&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
 
 </div>
 
