@@ -72,11 +72,11 @@ Full-stack developer specializing in Discord bot development and web application
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Henzy98&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Henzy98&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=Henzy98&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Henzy98&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Henzy98&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henzy98&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
 
