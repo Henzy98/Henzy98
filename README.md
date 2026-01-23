@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+%26+Database+Expert+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Open+Source+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" />
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
 
@@ -12,22 +14,15 @@
 
 ## 💫 About Me
 
-```javascript
-const henzy = {
-    location: "🌍 Earth",
-    code: ["JavaScript", "Python", "PHP", "HTML/CSS"],
-    technologies: {
-        backEnd: {
-            js: ["Node.js", "Express"],
-        },
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        devOps: ["Cloudflare", "NPM"],
-        tools: ["Nodemon", "Git", "VS Code"]
-    },
-    currentFocus: "Building scalable backend systems",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+Full-stack developer specializing in backend development and database architecture. I build scalable web applications using modern JavaScript frameworks and work extensively with various database systems.
+
+**Core Expertise:**
+- Backend development with Node.js and Express
+- Database design and optimization (MongoDB, MySQL, SQLite)
+- RESTful API development and integration
+- Server-side scripting with PHP and Python
+
+**Currently focused on:** Building robust backend systems and exploring cloud infrastructure solutions.
 
 
 ---
@@ -113,19 +108,12 @@ const henzy = {
 
 <div align="center">
 
-### 🎯 Current Projects
-```
-🔨 Working on: Backend API development
-🌱 Learning: Advanced Node.js patterns & microservices
-💡 Exploring: Cloud architecture & DevOps practices
-```
-
 ### 💭 Philosophy
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ### 📫 How to reach me
 - 💬 Discord: Join my server above
-- 📧 Open to collaboration and interesting projects!
+- � Open to collaboration and interesting projects!
 
 </div>
 
