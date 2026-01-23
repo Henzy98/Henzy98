@@ -12,15 +12,16 @@
 
 ## 💫 About Me
 
-Full-stack developer specializing in backend development and database architecture. I build scalable web applications using modern JavaScript frameworks and work extensively with various database systems.
+Full-stack developer specializing in Discord bot development and web applications. I create custom Discord bots with advanced features and build modern, responsive websites.
 
 **Core Expertise:**
-- Backend development with Node.js and Express
-- Database design and optimization (MongoDB, MySQL, SQLite)
-- RESTful API development and integration
-- Server-side scripting with PHP and Python
+- Discord bot development with Discord.js
+- Web development (Frontend & Backend)
+- Backend APIs with Node.js and Express
+- Database integration (MongoDB, MySQL, SQLite)
+- RESTful API development and Discord API integration
 
-**Currently focused on:** Building robust backend systems and exploring cloud infrastructure solutions.
+**Currently focused on:** Building feature-rich Discord bots and scalable web applications.
 
 
 ---
