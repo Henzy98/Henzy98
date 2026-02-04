@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-Full-stack developer specializing in Discord bot development and web applications. I create custom Discord bots with advanced features and build modern, responsive websites.
+Specializing in Discord bot development and web applications. I create custom Discord bots with advanced features and build modern, responsive websites.
 
 **Core Expertise:**
 - Discord bot development with Discord.js
