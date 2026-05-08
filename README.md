@@ -133,21 +133,6 @@ Specializing in Discord bot development and web applications. I create custom Di
 
 ---
 
-## 🎮 When I'm Not Coding
-
-<div align="center">
-
-```
-🎵 Listening to music
-📚 Reading tech blogs
-🎯 Learning new technologies
-☕ Drinking coffee (lots of it!)
-```
-
-</div>
-
----
-
 <img src="./status.svg" width="10000">
 
 <div align="center">
