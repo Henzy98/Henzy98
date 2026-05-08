@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Henzy!
 
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/241766538-5e4c5e2e-3e4d-4e4d-8e4d-3e4c5e2e3e4d.gif)
+![MasterHead](https://i.pinimg.com/originals/20/ca/c7/20cac736852b773389cc9fc6a7c5fc5f.gif)
 
 </div>
 
@@ -22,6 +22,16 @@ Specializing in Discord bot development and web applications. I create custom Di
 
 **Currently focused on:** Building feature-rich Discord bots and scalable web applications.
 
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://count.getloli.com/get/@Henzy98?theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1">
+
+</div>
 
 ---
 
@@ -133,16 +143,6 @@ Specializing in Discord bot development and web applications. I create custom Di
 🎯 Learning new technologies
 ☕ Drinking coffee (lots of it!)
 ```
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-<img src="https://count.getloli.com/get/@Henzy98?theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1">
 
 </div>
 
