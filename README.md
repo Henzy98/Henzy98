@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Henzy!
 
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241766538-5e4c5e2e-3e4d-4e4d-8e4d-3e4c5e2e3e4d.gif)
 
 </div>
 
