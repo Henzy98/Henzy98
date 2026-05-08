@@ -138,13 +138,19 @@ Specializing in Discord bot development and web applications. I create custom Di
 
 ---
 
-<img src="./status.svg" width="10000">
-
 <div align="center">
 
 ### 👀 Profile Views
 
 <img src="https://count.getloli.com/get/@Henzy98?theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1">
+
+</div>
+
+---
+
+<img src="./status.svg" width="10000">
+
+<div align="center">
 
 ### 💖 Thanks for visiting!
 
