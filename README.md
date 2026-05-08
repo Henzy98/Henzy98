@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Henzy!
 
 
-![MasterHead](https://i.pinimg.com/originals/2a/e4/80/2ae480f827920b1fcb1caeb22b95f180.gif)
+<img src="https://i.pinimg.com/originals/2a/e4/80/2ae480f827920b1fcb1caeb22b95f180.gif" width="800" alt="MasterHead">
 
 </div>
 
